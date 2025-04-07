@@ -42,3 +42,12 @@ Watch a short demo of MentalCareApp in action:
 - IDE: **Xcode**
 - Version Control: **Git**
 
+---
+
+## 📄 License
+
+This project is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+
+You are free to use, modify, and share this code for non-commercial purposes, as long as you give appropriate credit.
+
+🔒 **For commercial use or licensing inquiries, please contact: jimenez331375@gmail.com**
