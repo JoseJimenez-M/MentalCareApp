@@ -79,7 +79,7 @@ class ViewController_Add: UIViewController {
         let url = URL(string: "https://api.textrazor.com/")!
         var request = URLRequest(url: url)
         request.httpMethod = "POST"
-        request.addValue("bfe2b9edb4a7b6dd7836b973b80e504373d6d0568e3371304c577625", forHTTPHeaderField: "x-textrazor-key") // Reemplaza con tu API Key
+        request.addValue("YOUR API HERE", forHTTPHeaderField: "x-textrazor-key") // Reemplaza con tu API Key
         request.addValue("application/x-www-form-urlencoded", forHTTPHeaderField: "Content-Type")
         
         // Datos del cuerpo de la solicitud
